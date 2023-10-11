@@ -1,0 +1,4 @@
+#Fri Oct 06 15:50:25 ICT 2023
+base.0=E\:\\Coding\\MobileDev\\FlutterProject\\latihan\\latihan_heroclip\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

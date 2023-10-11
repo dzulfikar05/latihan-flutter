@@ -1,0 +1,4 @@
+#Sat Oct 07 19:32:16 ICT 2023
+base.0=E\:\\Coding\\MobileDev\\FlutterProject\\latihan\\latihan_topbar\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
